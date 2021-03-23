@@ -7,7 +7,7 @@
       "input": "Vidyavardhaka",
       "output": "The input string is Vidyavardhaka",
       "comparison": "included",
-      "timeout": 60,
+      "timeout": 10,
       "points": 10
     },
     {
@@ -17,7 +17,7 @@
       "input": "Nithin",
       "output": "The copied String-2 = Nithin",
       "comparison": "included",
-      "timeout": 60,
+      "timeout": 10,
       "points": 10
     },
     {
@@ -27,7 +27,7 @@
       "input": "Nithin kumar",
       "output": "The concatenated string = Nithinkumar",
       "comparison": "included",
-      "timeout": 60,
+      "timeout": 10,
       "points": 10
     },
     {
@@ -37,7 +37,7 @@
       "input": "Vidyavardhaka",
       "output": "The length of string = 13",
       "comparison": "included",
-      "timeout": 60,
+      "timeout": 10,
       "points": 10
     },
     {
@@ -47,7 +47,7 @@
       "input": "nithin",
       "output": "Number of vowels in the string = 2",
       "comparison": "included",
-      "timeout": 60,
+      "timeout": 10,
       "points": 10
     }
   ]
